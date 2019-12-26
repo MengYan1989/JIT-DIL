@@ -19,3 +19,5 @@ Step 5: Run JIT-Defect-Localization
 Input: (1) the added lines and their labels of each commit in Step 2; 
        (2) the predicted likelihood in Step 4; 
 Output: the localization result according to the order sorted by line entropy for each identified-buggy or all-buggy commit; 
+
+We are very grateful to Hellendoorn and Devanbu, Daniel Alencar da Costa et al. and Rosen et al. for sharing their scripts.
